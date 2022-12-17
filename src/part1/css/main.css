@@ -1,0 +1,102 @@
+
+@font-face {
+    font-family: body;
+    src: url("../assets/fonts/helvetica.ttf");
+}
+
+@font-face {
+    font-family: header;
+    src: url("../assets/fonts/adobe.ttf");
+}
+
+body{
+    background-color: white;
+    text-decoration-color: black;
+    font-size: 15px;
+    position: relative;
+    font-family: body, serif;
+}
+
+.imagemrs{
+    position: absolute;
+    top: 80px;
+    right: 750px;
+    width: 500px;
+    height: 100vh;
+}
+
+.imagemr{
+    position: absolute;
+    top: 80px;
+    left: 1050px;
+    width: 400px;
+    height: 100vh;
+}
+
+.header1{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: header, serif;
+}
+
+.header2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+.body1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+.body2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+#h4{
+    text-align: left;
+    font-size: 17px;
+}
+
+.body3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+#gunfight{
+    text-align: left;
+    height: 40%;
+    width: 100%;
+}
+
+#h5{
+    text-align: left;
+    font-size: 17px;
+}
+
+.body4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+#h6{
+    text-align: left;
+    font-size: 17px;
+}
+
+#footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+
+}
