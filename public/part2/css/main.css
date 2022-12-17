@@ -1,0 +1,117 @@
+@font-face {
+    font-family: Moon, serif;
+    src: url("../assets/fonts/moon.otf");
+}
+
+@font-face{
+    font-family: Avenir, Serif;
+}
+
+body{
+    color: white;
+    background-color: black;
+    border-color: #222;
+    font-family: Avenir, serif;
+}
+
+.header1{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #222;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    font-family: Moon, serif;
+}
+
+.header2{
+    text-align: center;
+    padding: 10px;
+}
+
+#h2{
+    font-size: 20px;
+    background-color: #222;
+}
+
+#h3{
+    font-size: 20px;
+    background-color: #222;
+}
+
+#h2, #h3{
+    width: 90em;
+    height: 10em;
+    margin-top: 2%;
+    padding: 30px;
+    display: inline;
+}
+
+.body1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    border: #222;
+    padding: 20px;
+    background-color: #222;
+}
+
+.body2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    background-color: #222;
+    padding: 20px;
+}
+
+#meridian{
+    float: right;
+    width: 300px;
+    height: 300px;
+}
+
+.body3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    background-color: #222;
+    padding: 20px;
+}
+
+.body4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    background-color: #222;
+}
+
+#meridianr{
+    float: left;
+    width: 300px;
+    height: 300px;
+    display: block;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+#occupied{
+    float: left;
+    width: 720px;
+    height: 300px;
+}
+
+#h5, #h6, #h7, #h8 {
+    font-size: 15px;
+    font-family: Moon, serif;
+}
+
+#h4, #h9 {
+    font-size: 20px;
+    font-family: Moon, serif;
+}
+
+
